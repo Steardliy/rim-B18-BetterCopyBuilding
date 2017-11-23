@@ -1,0 +1,7 @@
+C:\GitLocal\rim-B18-BetterCopyBuilding\source\BettarCopyBuilding\obj\Debug\BetterCopyBuilding.csprojResolveAssemblyReference.cache
+C:\GitLocal\rim-B18-BetterCopyBuilding\source\BettarCopyBuilding\obj\Debug\BetterCopyBuilding.csproj.CoreCompileInputs.cache
+C:\GitLocal\rim-B18-BetterCopyBuilding\source\BettarCopyBuilding\bin\Debug\BetterCopyBuilding.dll
+C:\GitLocal\rim-B18-BetterCopyBuilding\source\BettarCopyBuilding\bin\Debug\BetterCopyBuilding.pdb
+C:\GitLocal\rim-B18-BetterCopyBuilding\source\BettarCopyBuilding\bin\Debug\0Harmony.dll
+C:\GitLocal\rim-B18-BetterCopyBuilding\source\BettarCopyBuilding\obj\Debug\BetterCopyBuilding.dll
+C:\GitLocal\rim-B18-BetterCopyBuilding\source\BettarCopyBuilding\obj\Debug\BetterCopyBuilding.pdb
